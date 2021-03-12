@@ -14,5 +14,5 @@ The result of an unsupervised learning model is to place observations from a dat
   + Finding similarities/patterns in observed data
   + e.g. k-means, SVD, PCA, Hierarchical custering
 + **Association:**
-  + Identify sequences
+  + Identify sequences. Identify new and interesting insights between different objects in a set.
   + e.g. Frequent Pattern-Growth, Apriori Algorithm
