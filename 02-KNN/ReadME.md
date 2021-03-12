@@ -1,4 +1,4 @@
-# K-Nearest Neighbors
+# The K-Nearest Neighbors Algorithm
 ![](https://www.coryjmaklin.com/media/machine-learning-algorithms-part-6-k-nearest-neighbors-in-python-1.png)
 
 k-Nearest neighbors is one of the simplest supervised machine learning algortithm there is. This algorithm can be used to solve classification, regression, and search (reccomendations) problems. It makes no mathematical assumptions, and it doesn’t require any sort of heavy machinery. 
