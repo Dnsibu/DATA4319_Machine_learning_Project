@@ -2,8 +2,8 @@
 
 **Description:**
 
-There is a set of data that is **not labeled**  with the correct answers  to learn from.
-The result of a supervised learning model is to predict new values or understand the relationship between the label and feature variables.
+Involves finding structures and relationships from inputs. There is a set of data that is **unlabeled** to learn from.
+The result of an unsupervised learning model is to place observations from a dataset into (1) specific clusters or (2) to create rules to identify associtions between variables. 
 
 **Variables:**
   + features
@@ -12,7 +12,7 @@ The result of a supervised learning model is to predict new values or understand
 **Types of algorithms:**
 + **Clustering:** 
   + Predict a category. Classification models classify input data into categories
-  + e.g. k-nearest neighbors, Logistic regression, Naive Bayes, support vector machines
+  + e.g. k-means, SVD, PCA, Hierarchical custering
 + **Association:**
   + Predict continuous responses by investigating the relationship between the dependent and independent set of variables
-  + e.g. Linear regression, Polynomial regression, Decision trees, random forests
+  + e.g. Frequent Pattern-Growth, Apriori Algorithm
