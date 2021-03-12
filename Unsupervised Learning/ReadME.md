@@ -11,8 +11,8 @@ The result of an unsupervised learning model is to place observations from a dat
 
 **Types of algorithms:**
 + **Clustering:** 
-  + Predict a category. Classification models classify input data into categories
+  + Finding similarities/patterns in observed data
   + e.g. k-means, SVD, PCA, Hierarchical custering
 + **Association:**
-  + Predict continuous responses by investigating the relationship between the dependent and independent set of variables
+  + Identify sequences
   + e.g. Frequent Pattern-Growth, Apriori Algorithm
