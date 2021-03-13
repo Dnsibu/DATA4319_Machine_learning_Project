@@ -9,7 +9,7 @@ This senior level data science course blends the predictive perspective of stati
 + Measuring Error
 + Supervised Learning
   + Linear Regression
-  + The K-Nearest Neighbors Algorithm
+  + [The K-Nearest Neighbors Algorithm](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/02-KNN)
   + Decision Trees and Regression Trees
   + Gradient Descent & Logistic Regression
   + The Perceptron Learning Algorithm
