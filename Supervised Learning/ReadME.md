@@ -11,7 +11,7 @@ The result of a supervised learning model is to predict new values or understand
 **Types of algorithms:**
 + **Classification:** 
   + Predict a category. Classification models classify input data into categories
-  + e.g. k-nearest neighbors, Logistic regression, Naive Bayes, support vector machines
+  + e.g. [k-nearest neighbors](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/02-KNN), Logistic regression, Naive Bayes, support vector machines
 + **Regression:**
   + Predict continuous responses by investigating the relationship between the dependent and independent set of variables
   + e.g. [Linear regression](https://github.com/Dnsibu/NsibuD_DATA_4319/blob/main/Supervised%20Learning/03-Linear%20Regression/linear_regression.ipynb), Polynomial regression, Decision trees, random forests
