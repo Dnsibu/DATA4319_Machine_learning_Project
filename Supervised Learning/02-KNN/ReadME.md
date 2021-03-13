@@ -5,8 +5,8 @@ k-Nearest neighbors is one of the simplest supervised machine learning algortith
 
 The only things it requires are:
 
-•	Some notion of distance
-•	An assumption that points that are close to one another are similar
++	Some notion of distance
++	An assumption that points that are close to one another are similar
 
 Pros:
 + 1. Can be used for classification, regression, and search problems
