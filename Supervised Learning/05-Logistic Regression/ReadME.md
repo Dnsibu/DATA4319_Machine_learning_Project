@@ -8,3 +8,6 @@ Logistic Regression is a popular statistical model used for binary classificatio
 
 ## How does Logistic Regression work?
 
+Logistic Regression uses a more complex cost function than Linear Regression, this cost function is called the ‘Sigmoid function’ or also known as the ‘logistic function’ instead of a linear function.
+
+The hypothesis of logistic regression tends to limit the cost function between 0 and 1. Therefore linear functions fail to represent it as it can have a value greater than 1 or less than 0 which is not possible as per the hypothesis of logistic regression.
