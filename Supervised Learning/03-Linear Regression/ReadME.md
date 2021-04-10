@@ -9,7 +9,7 @@ Linear Regression is one of the simplest algorithms in machine learning under su
 The goal of the Linear regression is to find the best fit line that can accurately predict the output for the continuous dependent variable
 
 ## How does Linear Regression work?
-
+![](https://github.com/Dnsibu/NsibuD_DATA_4319/blob/main/Supervised%20Learning/03-Linear%20Regression/how%20does%20it%20work.jpg?raw=true)
  
 
 
