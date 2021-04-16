@@ -13,7 +13,7 @@ The result of an unsupervised learning model is to place observations from a dat
 **Types of algorithms:**
 + **Clustering:** 
   + Finding similarities/patterns in observed data
-  + e.g. k-means, SVD, PCA, Hierarchical custering
+  + e.g. ![K-Means](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Unsupervised%20Learning/01-K%20Means), SVD, PCA, Hierarchical custering
 + **Association:**
   + Identify sequences. Identify new and interesting insights between different objects in a set.
   + e.g. Frequent Pattern-Growth, Apriori Algorithm
