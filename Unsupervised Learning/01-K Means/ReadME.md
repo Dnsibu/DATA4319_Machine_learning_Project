@@ -12,7 +12,7 @@ To calculate the similarity between data points,  we use distances measures such
 
 ## How does  K-Means Clustering work?
 1. Calculate the Euclidean distance from each feature vector to each centroid.
-
+![](https://camo.githubusercontent.com/11ef8ac96db197b5a396cfa43954a4d024d0e3d773cbd3f408075388e9967dea/68747470733a2f2f692e737461636b2e696d6775722e636f6d2f52746e54592e6a7067)
 3. Assign to each feature vector the centroid that is closest.
 4. We next update the centroids in  by the following equation:
 
