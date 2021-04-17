@@ -17,7 +17,7 @@ This senior level data science course blends the predictive perspective of stati
   + Neural Nets
 + Unsupervised Learning
   + Clustering
-  + The K-Means Clustering Algorithm
+  + [The K-Means Clustering Algorithm](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Unsupervised%20Learning/01-K%20Means)
   + Hierarchical Clustering
   + Probabilistic Clustering
   + Autoencoding
