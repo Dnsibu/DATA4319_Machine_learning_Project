@@ -4,21 +4,20 @@
 ## What is reinforcement learning?
 
 Reinforcement learning (RL) is the subfield of machine learning concerned with decision making and motor control. 
-It studies how an agent can learn how to achieve goals in a complex, uncertain environment.To get the machine to do what the programmer wants, the artificial intelligence gets either rewards or penalties for the actions it performs. 
+It studies how an agent can learn how to achieve goals in a complex, uncertain environment.To get the machine to do what the programmer wants, the AI gets either rewards or penalties for the actions it performs. 
 Its goal is to maximize the total reward.
 It’s exciting for two reasons:
 
-+ RL is very general, encompassing all problems that involve making a sequence of decisions: 
-for example, controlling a robot’s motors so that it’s able to run and jump, making business decisions like pricing and inventory management, or playing video games and board games. 
++ RL is very general, encompassing all problems that involve making a sequence of decisions.
+For example, controlling a robot’s motors so that it’s able to run and jump, making business decisions like pricing and inventory management, or playing video games and board games. 
 RL can even be applied to supervised learning problems with sequential or structured outputs.
 
 + RL algorithms have started to achieve good results in many difficult environments. RL has a long history, but until recent advances in deep learning, it required lots of problem-specific engineering. 
 AlphaGo used deep RL algorithms which did not make too many assumptions about its environment, and thus can be applied in other settings.
 
 ## How does reinforcement learning work?
-The key distinguishing factor of reinforcement learning is how the agent is trained. 
-Instead of inspecting the data provided, the model interacts with the environment, seeking ways to maximize the reward. In the case of deep reinforcement learning, a neural network is in charge of storing the experiences and 
-thus improves the way the task is performed.
+Reinforcement Learning is a very different type of ml from classic supervised and unsupervised. The key distinguishing factor of reinforcement learning is how the agent is trained. The learning system, called an agent in this context, can observe the environment, select and perform actions, and get rewards in return (or penalties in the form of negative rewards). It must then learn by itself what is the best strategy, called a policy, to get the maximum amount of rewards over time. A policy defines what action the agent should choose when it is in a given situation.
+
 
 ![](https://theaisummer.com/static/65d20186191a40d02e301a1dcc6c726b/ac25c/RL.jpg)
 
