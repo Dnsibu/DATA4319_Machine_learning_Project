@@ -18,7 +18,7 @@ Programming languages used in this repo:
   + Gradient Descent 
   + Logistic Regression
   + The Perceptron Learning Algorithm
-  + Neural Nets
+  + [Neural Nets](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/06-Neural%20Networks)
 + Unsupervised Learning
   + Clustering
   + [The K-Means Clustering Algorithm](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Unsupervised%20Learning/01-K%20Means)
