@@ -3,7 +3,7 @@
 
 ## What is reinforcement learning?
 
-Reinforcement learning (RL) is the subfield of machine learning concerned with decision making and motor control. 
+Reinforcement learning (RL) is the subfield of machine learning concerned with decision making and motor control. The training data does not explicitly contain the correct outputs for the features.
 It studies how an agent can learn how to achieve goals in a complex, uncertain environment.To get the machine to do what the programmer wants, the AI gets either rewards or penalties for the actions it performs. 
 Its goal is to maximize the total reward.
 It’s exciting for two reasons:
