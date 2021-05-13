@@ -21,6 +21,10 @@ This senior level data science course blends the predictive perspective of stati
   + Hierarchical Clustering
   + Probabilistic Clustering
   + Autoencoding
++ Reinforcement Learning
+  + Q-Learning
+  + REINFORCE
+  + Deep Q-Networks
 
 
 ## Instructor: 
