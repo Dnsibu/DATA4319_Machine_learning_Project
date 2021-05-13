@@ -29,4 +29,5 @@ So going back to our example, the environment was the tic-tac-toe board, and I a
 So when an agent makes an action it changes the environment or can change the environment and that change in the environment regardless if it actually does change or not  gives you a new state. So new action new state and moreover for each action that the agent chooses to do, this new state then gives the agent a reward.  
 
 State -> Action -> Reward
+
     (s_t, a_t, r_t)
