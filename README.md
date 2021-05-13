@@ -27,7 +27,7 @@ Programming languages used in this repo:
   + Autoencoding
 + Reinforcement Learning
   + Q-Learning
-  + REINFORCE
+  + [REINFORCE](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Reinforcement%20Learning)
   + Deep Q-Networks
 
 
