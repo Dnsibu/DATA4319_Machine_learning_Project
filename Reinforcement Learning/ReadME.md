@@ -30,4 +30,4 @@ So when an agent makes an action it changes the environment or can change the en
 
 State -> Action -> Reward
 
-    (s_t, a_t, r_t)
+
