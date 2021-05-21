@@ -16,7 +16,7 @@ Programming languages used in this repo:
   + [The K-Nearest Neighbors Algorithm](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/02-KNN)
   + Decision Trees and Regression Trees
   + [Gradient Descent](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/04-Gradient%20Descent)
-  + Logistic Regression
+  + [Logistic Regression](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/05-Logistic%20Regression)
   + The Perceptron Learning Algorithm
   + [Neural Nets](https://github.com/Dnsibu/NsibuD_DATA_4319/tree/main/Supervised%20Learning/06-Neural%20Networks)
 + Unsupervised Learning
